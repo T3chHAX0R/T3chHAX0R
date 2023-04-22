@@ -29,5 +29,3 @@
   <img src="https://profile-counter.glitch.me/T3chHAX0R/count.svg?"  />
 </div>
 
-###
-![Snake animation](https://github.com/T3chHAX0R/T3chHAX0R/blob/output/github-contribution-grid-snake.svg)
